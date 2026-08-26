@@ -43,6 +43,10 @@ O Olho do Prime Void consulta somente informações disponíveis publicamente.
 
 Algumas informações podem não ser encontradas caso a experiência esteja privada, removida, arquivada ou não esteja acessível através das interfaces públicas utilizadas pelo aplicativo.
 
+## ⬇️ Download
+
+https://github.com/Samp-77/o-olho-do-prime-void-releases/releases
+
 ## 👥 Créditos
 
 **Owner:** Prime Void
